@@ -1,1 +1,1 @@
-# tarjetas-de-memoria
+# memory-cards
